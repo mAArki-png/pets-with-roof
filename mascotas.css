@@ -1,0 +1,156 @@
+*{
+    background-color:peru;
+    font-family: 'Arimo', sans-serif;
+    
+}
+body{
+    padding-top: 100px;
+}
+.presentacion{
+   background-color: burlywood;
+   height: 110px;
+   width: 100%;
+   position: fixed;
+   margin-top: -100px;
+   z-index: 1;
+}
+
+.dos{
+    background-color: burlywood;
+    font-size: 60px;
+    margin-top:0;
+    padding: 30px;
+    color:rgb(87, 24, 24);
+    font-family: 'Oswald', sans-serif;
+}
+
+.separador{
+    background-color:rgb(87, 24, 24);
+    border-color:rgb(87, 24, 24);
+    height: 20px;
+    margin:30px;
+    margin-top:55px;
+    border-radius: 10px;
+   position:relative;
+   top: 10px;
+}
+.descripcion{
+    background-color: burlywood;
+    font-size: 45px;
+    width: 90%;
+    height:130px;
+    padding-left: 50px;
+    margin-left: 30px;
+    padding-right: 50px;
+    border-radius: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+.pet-data{
+    background-color:burlywood;
+    display:inline-block;
+    width: 90%;
+    height: 90%;
+    padding-left: 50px;
+    margin-left: 30px;
+    padding-right: 50px;
+    border-radius: 10px;
+}
+.hdata{
+    background-color: burlywood;
+    font-size: 40px;
+}
+p{
+    background-color:burlywood;
+    font-size: 30px;
+}
+.foto{
+    outline: 5px solid rgb(87, 24, 24);
+    border-radius: 10px;
+    position: relative;
+    float:right;
+    width: 45%;
+    height: 45%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.foto-2{
+    outline: 5px solid rgb(87, 24, 24);
+    border-radius: 10px;
+    position: relative;
+    float:left;
+    width: 45%;
+    height: 45%;
+    margin-right: 40px;
+    margin-right: 50px;
+    margin-bottom: 45px;
+
+}
+.remediar-pet{
+    background-color:burlywood;
+    display:inline-block;
+    width: 90%;
+    height: 90%;
+    padding-left: 50px;
+    margin-left: 30px;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+}
+.lista-pet,li{
+    background-color: burlywood;
+    font-size:35px;;
+}
+.moral{
+    background-color:burlywood;
+    display:inline-block;
+    width: 90%;
+    height: 50%;
+    padding-left: 50px;
+    margin-left: 30px;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: relative;
+    top: 60px;
+}
+.refran{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 40px;
+}
+.separador-2{
+    background-color:rgb(87, 24, 24);
+    border-color:rgb(87, 24, 24);
+    height: 20px;
+    margin:30px;
+    margin-top:55px;
+    border-radius: 10px;
+    position: relative;
+    top: 25px;
+}
+
+.contactos{
+    background-color:burlywood;
+    display:inline-block;
+    width: 90%;
+    height: 240px;
+    padding-left: 50px;
+    margin-left: 30px;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+   
+}
+strong{
+    background-color: burlywood;
+}
+.foto-3{
+float:right;
+width: 129px;
+height: 129px;
+background-color: burlywood;
+}
